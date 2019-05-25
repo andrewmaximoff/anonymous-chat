@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anonymous-chat/static/css/main.2cce8147.chunk.css",
+    "main.js": "/anonymous-chat/static/js/main.6f4a43c5.chunk.js",
+    "main.js.map": "/anonymous-chat/static/js/main.6f4a43c5.chunk.js.map",
+    "runtime~main.js": "/anonymous-chat/static/js/runtime~main.fb024221.js",
+    "runtime~main.js.map": "/anonymous-chat/static/js/runtime~main.fb024221.js.map",
+    "static/js/2.b41502e9.chunk.js": "/anonymous-chat/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/anonymous-chat/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/anonymous-chat/index.html",
+    "precache-manifest.b75207157fdcd9754e8e24220d545207.js": "/anonymous-chat/precache-manifest.b75207157fdcd9754e8e24220d545207.js",
+    "service-worker.js": "/anonymous-chat/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/anonymous-chat/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/anonymous-chat/static/media/logo.5d5d9eef.svg"
+  }
+}
